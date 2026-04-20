@@ -5,7 +5,7 @@ The goal is to transform raw data into an interactive dashboard that helps stake
 
 The solution involves:
 
-Extracting and storing data in a MySQL database
+Extracting and storing data in a MySQL database <br>
 Connecting Power BI to the database
 Performing data cleaning and transformation
 Building an interactive dashboard with key KPIs and visual insights
