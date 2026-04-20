@@ -1,5 +1,5 @@
-# **Sales Insights Dashboard (Power BI + MySQL)
-## **Project Overview
+# Sales Insights Dashboard (Power BI + MySQL)
+## Project Overview
 This project focuses on analyzing sales data from Atliq Hardware Company to generate meaningful business insights.
 The goal is to transform raw data into an interactive dashboard that helps stakeholders make data-driven decisions.
 
@@ -10,21 +10,21 @@ Connecting Power BI to the database
 Performing data cleaning and transformation
 Building an interactive dashboard with key KPIs and visual insights
 
-## **Objectives
+## Objectives
 Analyze overall revenue and sales quantity
 Track year-over-year (YoY) growth
 Identify top-performing products and customers
 Analyze market-wise performance
 Enable business users to explore data dynamically
 
-## **Tools & Technologies Used
+## Tools & Technologies Used
 
 MySQL – Data storage and querying
 Power BI – Data visualization and dashboard creation
 Power Query – Data transformation
 DAX (Data Analysis Expressions) – Calculations and measures
 
-## **Dataset Description
+## Dataset Description
 
 The dataset includes:
 
@@ -35,7 +35,7 @@ Market/location data
 Date and time details
 
 
-## **Data Pipeline
+## Data Pipeline
 1.Imported raw sales data into MySQL
 2.Cleaned and structured the data using SQL
 3.Connected Power BI to MySQL Server
@@ -44,7 +44,7 @@ Date and time details
 6.Built calculated measures using DAX
 7.Designed an interactive dashboard
 
-## **Dashboard Features
+## Dashboard Features
 ### Key KPIs
 Total Revenue: 515.85M
 Total Sales Quantity: 2M
